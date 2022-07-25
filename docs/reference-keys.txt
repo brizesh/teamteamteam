@@ -27,3 +27,4 @@ tab:nice-tab
 eq:binom
 thm:tri
 topic-selection
+intro

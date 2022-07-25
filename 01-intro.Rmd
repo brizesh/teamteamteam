@@ -5,7 +5,7 @@ Here is more information about our members!
 ## Brizesh
 
 
-## Brandon 
+## Brandon Hi
 
 I grew up in Northville, Michigan and have spent most of my life there. However, I spent two years of high school in Dallas, Texas. Growing up, I played several sports and in high school I played golf and hockey.
 Currently, I am a graduate student at The University of Michigan - Ross School of Business studying Business Analytics. I chose to pursue this degree in hopes of landing a job in the field of sports analytics. I love watching the NBA and the NFL (as well as college basketball and football) and I took a few analytics and ML classes in my undergrad that opened my eyes to the power and promise of AI.
@@ -16,6 +16,7 @@ Previous Education
 I graduated from my BBA program this spring, also at The Ross School of Business. I loved my undergraduate education and the experience that came with it. I find that the professors at The Ross School of Business are of the highest quality.
 
 ## Yulin
+
 
 ## Andrew
 

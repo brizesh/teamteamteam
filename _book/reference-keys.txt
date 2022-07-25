@@ -21,3 +21,8 @@ pages
 metadata-for-sharing
 r-markdown
 including-plots
+eq:binom
+thm:tri
+url-your-book-url-like-httpsbookdown.orgyihuibookdown
+fig:nice-fig
+tab:nice-tab

@@ -38,6 +38,7 @@ You can render the HTML version of this example book without changing anything:
 Or build the book from the R console:
 
 ```{r, eval=FALSE}
+library(bookdown)
 bookdown::render_book()
 ```
 
@@ -57,4 +58,6 @@ bookdown::serve_book()
 knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
 ), 'packages.bib')
+
+
 ```

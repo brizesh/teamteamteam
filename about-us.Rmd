@@ -1,11 +1,50 @@
-# About Me
+# About Me {#about-us}
 
 Here is more information about our members!
 
 ## Brizesh
+### Home
+
+- Have a younger brother who will be sophomore next year here at University of Michigan
+- Was born in India
+- Lived in Michigan since 7 months old
+- From Farmington Hills, Michigan
+
+### ME :)
+
+![Picture of me](https://media-exp2.licdn.com/dms/image/C4E03AQGvpFqoFwWxCA/profile-displayphoto-shrink_800_800/0/1606345605442?e=1663200000&v=beta&t=pZktC6JjeIl5i9-wFkkIqii2Ty82o91KK8DThWpPrtA)
 
 
-## Brandon Hi
+
+### Education
+
+#### University of Michigan
+
+- Bachelors in Data Science - Class of 2022
+
+- Masters in Business Analytics - Class of 2023
+
+- Part of Michigan Data Science Team
+
+#### Harrison High School
+
+Class of 2019
+
+### Hobbies
+
+- Watching sports, including NBA and NFL
+- Playing basketball, tennis, and golf
+- Traveling and being outside
+- Watching Tv Shows
+- Spending time with family and friends
+
+### Fun Facts
+- Was born in India
+- Speak 3 languages
+- Graduated at 20 years old
+
+
+## Brandon
 
 I grew up in Northville, Michigan and have spent most of my life there. However, I spent two years of high school in Dallas, Texas. Growing up, I played several sports and in high school I played golf and hockey.
 Currently, I am a graduate student at The University of Michigan - Ross School of Business studying Business Analytics. I chose to pursue this degree in hopes of landing a job in the field of sports analytics. I love watching the NBA and the NFL (as well as college basketball and football) and I took a few analytics and ML classes in my undergrad that opened my eyes to the power and promise of AI.
@@ -18,7 +57,50 @@ I graduated from my BBA program this spring, also at The Ross School of Business
 ## Yulin
 
 
+
 ## Andrew
+
+Born: Columbus, Ohio
+
+Education:  
+University of Michigan  
+Master of Business Analytics, April 2023
+
+University of Cincinnati  
+Bachelor of Science, Civil Engineering, April 2014  
+Activities: Delta Tau Delta Fraternity, University of Cincinnati Men's Ice Hockey Club
+
+Professional Work Experience:  
+2015-2016  
+Lead Engineer, KBKG  
+-Completed 28 cost segregation studies, 45 IRS Form 3115 projects, and four comprehensive fixed asset reviews
+
+2018-2021  
+Senior Engineer, ICS Tax, LLC  
+-Completed 118 cost segregation studies and two comprehensive fixed asset reviews for Fortune 500 companies 
+
+Military Experience  
+2019-2020  
+Supply Officer, Georgian Liaison Team  
+Operation Freedom's Sentinel
+
+2021-2022  
+Operations Officer, Combat Logistics Battalion 451  
+Operation Allies Welcome
+
+Military Education  
+Officer Candidates School  
+Basic Officer's Course  
+Ground Supply Officer's Course  
+Marine Advisor Course  
+Regional and Culture Studies Program  
+Expeditionary Warfare School  
+
+Hobbies and Interests:  
+Columbus Blue Jackets Hockey  
+Michigan Wolverines Football
+
+![](https://i.ytimg.com/vi/VeOMMEZGZvo/maxresdefault.jpg)
 
 ## Yidan
 

@@ -22,3 +22,7 @@ metadata-for-sharing
 r-markdown
 including-plots
 url-your-book-url-like-httpsbookdown.orgyihuibookdown
+fig:nice-fig
+tab:nice-tab
+eq:binom
+thm:tri

@@ -1,3 +1,7 @@
+fig:nice-fig
+tab:nice-tab
+eq:binom
+introduction
 about-me
 brizesh
 brandon-hi

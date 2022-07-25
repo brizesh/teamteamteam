@@ -21,7 +21,3 @@ github-repo: brizesh/teamteamteam
 
 Our group chose to make our project about approaching teamwork and collaboration questions in the behavioral interview process.
 
-```{r pressure, echo=FALSE, fig.align="center", out.width = '50%'}
-knitr::include_graphics("/Users/chenyulin/Desktop/22ec4c4054bf4a30ee7b2f1c0f3e9eac.jpeg")
-```
-

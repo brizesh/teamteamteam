@@ -55,8 +55,13 @@ Previous Education
 I graduated from my BBA program this spring, also at The Ross School of Business. I loved my undergraduate education and the experience that came with it. I find that the professors at The Ross School of Business are of the highest quality.
 
 ## Yulin
+```{r pressure, echo=FALSE, fig.cap="(My Picture)", out.width = '50%'}
+knitr::include_graphics("/Users/chenyulin/Desktop/WechatIMG119.jpeg")
+```
 
-
+I am currently studying Business Analytics as graduate student at The University of Michigan - Ross School of Business.
+I have graduated for 2 years from University of Hong Kong with a bachelor’s degree of Economics and Finance. Then, I spent 2 years in the Lenovo's global future leader program as a corporate branding specialist for one year and half, responsible for branding campaigns mainly targeting the gen z market.
+I love cats, taking photos, and skiing. I have a 2 months old kitten in Ann Arbor whose name is BoBo. Nice to meet everyone in MBAN 501! Hope what we are doing could be helpful for every reader. 
 
 ## Andrew
 

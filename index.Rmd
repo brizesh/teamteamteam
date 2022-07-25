@@ -22,6 +22,7 @@ github-repo: brizesh/teamteamteam
 3. [Team Skills & Class Concepts](#teamskills)
 4. [Applications in Behavioral Interviews](#interview)
 5. [Administrative Products & Templates](#last)
+6. [References](#ref)
 
 # Introduction
 

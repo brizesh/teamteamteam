@@ -36,9 +36,4 @@ last
 sync-matrix
 team-charter
 task-analysis
-sharing-your-book
-publishing
-pages
-metadata-for-sharing
-r-markdown
-including-plots
+ref

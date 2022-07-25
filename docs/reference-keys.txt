@@ -28,3 +28,4 @@ eq:binom
 thm:tri
 topic-selection
 intro
+introduction

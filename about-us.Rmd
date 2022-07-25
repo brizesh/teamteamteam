@@ -15,7 +15,6 @@ Here is more information about our members!
 ![Picture of me](https://media-exp2.licdn.com/dms/image/C4E03AQGvpFqoFwWxCA/profile-displayphoto-shrink_800_800/0/1606345605442?e=1663200000&v=beta&t=pZktC6JjeIl5i9-wFkkIqii2Ty82o91KK8DThWpPrtA)
 
 
-
 ### Education
 
 #### University of Michigan
@@ -55,9 +54,7 @@ Previous Education
 I graduated from my BBA program this spring, also at The Ross School of Business. I loved my undergraduate education and the experience that came with it. I find that the professors at The Ross School of Business are of the highest quality.
 
 ## Yulin
-```{r pressure, echo=FALSE, fig.cap="(My Picture)", out.width = '50%'}
-knitr::include_graphics("/Users/chenyulin/Desktop/WechatIMG119.jpeg")
-```
+![My Picture](https://media-exp1.licdn.com/dms/image/C5603AQFLokEiZ3tzog/profile-displayphoto-shrink_400_400/0/1658641764420?e=1664409600&v=beta&t=BDAzHGIOGfOdaSXPLc-p62_XmCPjexADnVTpv9CUMH4)
 
 I am currently studying Business Analytics as graduate student at The University of Michigan - Ross School of Business.
 I have graduated for 2 years from University of Hong Kong with a bachelor’s degree of Economics and Finance. Then, I spent 2 years in the Lenovo's global future leader program as a corporate branding specialist for one year and half, responsible for branding campaigns mainly targeting the gen z market.

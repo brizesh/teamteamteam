@@ -39,3 +39,5 @@ task-analysis
 ref
 fig:pressure
 url-your-book-url-like-httpsbookdown.orgyihuibookdown
+frequently-asked-questions
+principles-for-answering-them

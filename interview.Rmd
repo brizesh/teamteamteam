@@ -1,6 +1,6 @@
 # Applications in Behavioral Interviews {#interview}
 
-### Frequently Asked Questions 
+## Frequently Asked Questions 
 
 **Q1: How do you feel about working in a team environment?**
 

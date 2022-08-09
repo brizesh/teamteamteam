@@ -1,5 +1,5 @@
 --- 
-title: "HW3"
+title: "TheTeamTheTeamTheTeam"
 author: "Brizesh, Brandon, Yulin, Andrew, Yidan"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -22,7 +22,8 @@ github-repo: brizesh/teamteamteam
 3. [Team Skills & Class Concepts](#teamskills)
 4. [Applications in Behavioral Interviews](#interview)
 5. [Administrative Products & Templates](#last)
-6. [References](#ref)
+6. [Our Learings from the Term](#Scope)
+7. [References](#ref)
 
 # Introduction
 

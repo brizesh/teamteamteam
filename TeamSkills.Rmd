@@ -8,9 +8,11 @@
 
 ## Group Decision Making
 
-Group decison making is a strategy that is used when working in a team setting. In particular, teams collectively making a decision among the proposed solutions is the idea of group decision making. This way when the team makes a decision, it is not made by one person, but rather the whole group.
+Group decision making is a strategy that is used when working in a team setting. In particular, teams collectively making a decision among the proposed solutions is the idea of group decision making. This way when the team makes a decision, it is not made by one person, but rather the whole group. Group Decision making is much different than individual decision making and usually more effective, since you can get multiple people's opinions before making an informed decision.
 
 ### What are Group Decision Making Strategies?
+
+Group Decision Making strategies are manners and techniques that groups can use when they need to come to a consensus about an issue or problem.
 
 ### When And When not to Use Decision Making?
 

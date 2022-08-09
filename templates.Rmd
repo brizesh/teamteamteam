@@ -2,6 +2,18 @@
 
 ## Sync Matrix
 
+**The importance**
+
+In this part, we plan to talk about the sync matrix for establishing project timelines. At first, the main advantage of a project timeline is that it gives a reasonable time estimate for each task within the project scope, which really helps to finish all assignments before deadlines. You can just do this by giving a time estimate for each job. Additionally, it improves the efficiency in each team meeting. To illustrate, if all members come with the objectives in mind, the workflow could be smoother and more transparent. Lastly, it makes easier for monitoring progress and milestones. 
+
+**Main elements in the Timeline**
+
+Date & Time, Contents for each meeting, and estimated finished time
+
+**Templates & Examples**
+
+
+
 ## Team Charter
 
 ## Task Analysis

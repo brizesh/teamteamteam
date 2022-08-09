@@ -12,6 +12,7 @@ Date & Time, Contents for each meeting, and estimated finished time
 
 **Templates & Examples**
 
+![Online templates](https://cdn.vertex42.com/ExcelTemplates/Images/project-schedule-template-example.png) 
 
 
 ## Team Charter

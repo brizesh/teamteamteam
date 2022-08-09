@@ -12,7 +12,11 @@ Group decision making is a strategy that is used when working in a team setting.
 
 ### What are Group Decision Making Strategies?
 
-Group Decision Making strategies are manners and techniques that groups can use when they need to come to a consensus about an issue or problem.
+Group Decision Making strategies are manners and techniques that groups can use when they need to come to a consensus about an issue or problem. It has been researched and proven that decisions made collectively are usually better and more effective than decisions made by a single individual. Group decision making can also be used in all types of groups, including teams, committees and partnerships. 
+
+There are many techniques on how to go about group decision making but one good one is called the stepladder technique. This is a great technique if your group struggles with the idea of groupthink. Groupthink is when members in the team strive for a consensus without really giving their own opinions. The first step is to have each team member evaluate the problem/issue by themselves. Next, you can take any two people and have them discuss the problem. Then, add an additional member to the core group and discuss with the new person giving their thoughts first. After you can discuss a team and then repeat by adding a new person. Finally, after adding all the remaining members, as a group you can come together to make a decision based on the ideas and opinions put forth by everyone. This technique is usueful when you want to avoid group think and when you have a smaller group.
+
+A technique you may want to use with larger groups and larger decision is the Delphi method. This technique has an overall leader or facilitator that manages the flow of information. Then, the rest of the team 
 
 ### When And When not to Use Decision Making?
 Though we may think that group decision strategies should always be used, there are some cases where we may not use them. Most of the times in school and work environments, group group decision making is the best course of action; however, there are certain cases where it should not be used.

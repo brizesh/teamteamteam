@@ -4,6 +4,8 @@ This section covers several variations of team structures and organizational str
 
 ## Hierarchical
 
+![](https://www.researchgate.net/publication/345373144/figure/fig1/AS:954820689162241@1604658400163/Hierarchical-diagram-representing-organisational-structure-more-power-less-instances-on.png)
+
 A hierarchical team/org structure is the most common in the corporate world. It is the typical pyramid-shaped chain-of-command where everyone has a boss and orders flow from the top down. Hierarchies can range from strict to relaxed.
 
 Pros:
@@ -24,6 +26,8 @@ Cons:
 
 ## Functional
 
+![](https://www.marketing91.com/wp-content/uploads/2019/07/Functional-organization.jpg)
+
 A functional team/org structure is a variation of the hierarchical structure since the format of authority remains the same. However, the functional structure organizes members’ positions based on their own individual skills. These different skill groups are managed independently from one another. 
 Pros:
 
@@ -42,6 +46,8 @@ Cons:
 -Potential synergies between departments may never be realized
 
 ## Divisional
+
+![](https://slidemodel.com/wp-content/uploads/divisional-organizational-chart.png)
 
 A divisional team/org structure gives different divisions of people their own areas of resources, responsibility, and leadership. Divisions can be defined by geographic location, task responsibilities, or any other useful criteria.
 
@@ -63,6 +69,8 @@ Cons:
 
 ## Horizontal
 
+![](https://cdn-cashy-static-assets.lucidchart.com/marketing/blog/2017Q1/7-types-organizational-structure/flat-org-chart-template.png)
+
 A horizontal team/org structure is one where everyone is on the same level of authority. Sometimes, there is one person who is above everyone else, and sometimes everyone is on the same level. 
 
 Pros:
@@ -82,6 +90,8 @@ Cons:
 -Can lead to employees lacking specific workflows or direction
 
 ## Team-Based
+
+![](https://flylib.com/books/1/211/1/html/2/images/0321219775/graphics/09fig01.gif)
 
 A team-based organizational structure is one meant to mimic the traditional hierarchy but divide it into sections based on project teams. The idea is to minimize bureaucracy while still reaping the benefits of a hierarchical structure.
 
@@ -103,6 +113,8 @@ Cons:
 
 ## Network
 
+![](https://cdn-cashy-static-assets.lucidchart.com/marketing/blog/2017Q1/7-types-organizational-structure/Network-org-structure-template.png)
+
 A network team structure describes a culture of open communication and relationship-focused work. A network organizational structure describes a way of thinking about a company as a “network” that connects resources, employees, suppliers, and customers.
 
 Pros:
@@ -123,6 +135,8 @@ Cons:
 
 ## Organic
 
+![](https://blog.hubspot.com/hs-fs/hub/53/file-2160422824-jpg/offers/org-charts-mechanistic-vs-organic-blog.jpg?width=669&name=org-charts-mechanistic-vs-organic-blog.jpg)
+
 An organic team/org structure is one where leadership is dynamic, meaning that authority can change hands. This is usually done based on who is the subject-matter expert for the current task. This is the opposite of the strict hierarchy.
 
 Pros:
@@ -142,6 +156,8 @@ Cons:
 -Someone may be a subject-matter expert but still be a terrible manager
 
 ## Matrix
+
+![](https://svg.template.creately.com/gsy3ayzi5)
 
 A matrix organizational structure is one where people engage in cross-functional activities within the organization. The matrix organizational chart is designed like a grid.
 

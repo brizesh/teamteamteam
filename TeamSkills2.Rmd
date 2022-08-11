@@ -6,14 +6,17 @@ Group decision making is a strategy that is used when working in a team setting.
 
 Group Decision Making strategies are manners and techniques that groups can use when they need to come to a consensus about an issue or problem. It has been researched and proven that decisions made collectively are usually better and more effective than decisions made by a single individual. Group decision making can also be used in all types of groups, including teams, committees and partnerships. 
 
-There are many techniques on how to go about group decision making but one good one is called the stepladder technique. This is a great technique if your group struggles with the idea of groupthink. Groupthink is when members in the team strive for a consensus without really giving their own opinions. The first step is to have each team member evaluate the problem/issue by themselves. Next, you can take any two people and have them discuss the problem. Then, add an additional member to the core group and discuss with the new person giving their thoughts first. After you can discuss a team and then repeat by adding a new person. Finally, after adding all the remaining members, as a group you can come together to make a decision based on the ideas and opinions put forth by everyone. This technique is usueful when you want to avoid group think and when you have a smaller group.
+There are many techniques on how to go about group decision making but one good one is called the stepladder technique. This is a great technique if your group struggles with the idea of group think. Group think is when members in the team strive for a consensus without really giving their own opinions. The first step is to have each team member evaluate the problem/issue by themselves. Next, you can take any two people and have them discuss the problem. Then, add an additional member to the core group and discuss with the new person giving their thoughts first. After you can discuss a team and then repeat by adding a new person. Finally, after adding all the remaining members, as a group you can come together to make a decision based on the ideas and opinions put forth by everyone. This technique is useful when you want to avoid group think and when you have a smaller group.
 
-A technique you may want to use with larger groups and larger decision is the Delphi method. This technique has an overall leader or facilitator that manages the flow of information. Then, the rest of the team 
+![Stepladder Technique](https://i.ytimg.com/vi/XQh521qoJ9c/maxresdefault.jpg)
 
-**When And When not to Use Decision Making?**
+A technique you may want to use with larger groups and larger decision is the Delphi method. This technique has an overall leader or facilitator that manages the flow of information. Then, the rest of the team will answer a set of questions given by the facilitator. The questions will address the issue or problem at hand and then the facilitator or leader can read the responses and judge them by himself. After the leader reads over the responses, he/she sends them to the rest of the group members for their reactions. Then, this process occurs until there is agreement between all the members in the group. This process of summarizing feedback and obtaining reactions continue until there is a consensus reached within the group.
+
+## When And When not to Use Decision Making?
+
 Though we may think that group decision strategies should always be used, there are some cases where we may not use them. Most of the times in school and work environments, group group decision making is the best course of action; however, there are certain cases where it should not be used.
 
-## When to Use
+### When to Use
 
 Whenever working in a team, the first thing to think of should be whether the team needs to use group decision making. One instance you should use group decision making is when the team is diverse. This way when making a decision, you can include all members of the team. When a team is diverse in background, each member could provide an interesting perspective that someone from a different culture might not have though of.
 
@@ -23,7 +26,7 @@ You should also use group decision making when you have a big decision to make. 
 
 Finally, you should be using group decision making when a group has just been formed. A newly formed group is probably still getting used to each other, so it is best to make any decision collectively, especially if it affects the group in a substantial way. This is also a great way of getting to know your team better. You can explore each others background and individual decision making progress and then come together to make a good decision.
 
-## When Not to Use
+### When Not to Use
 
 Though group decision making seems like a great option, there are situations when you might want to rely on another method or just one individual to make the decision. One of these situations is when time is limited. If time is limited, then you want to make a decision quickly, and group decision making is probably not the best way to do that. Instead, you may want to select a leader who knows a lot more about the problem/issue and have them make the decision because it will be much faster.
 

@@ -23,6 +23,7 @@ organic
 matrix
 team2
 what-are-group-decision-making-strategies
+when-and-when-not-to-use-decision-making
 when-to-use
 when-not-to-use
 team3
@@ -36,12 +37,11 @@ direct-vs.-indirect
 interview
 frequently-asked-questions
 principles-for-answering-them
+star-framework
+acr-framework
 agile
 last
 sync-matrix
 team-charter
 Scope
 ref
-url-your-book-url-like-httpsbookdown.orgyihuibookdown
-star-framework
-acr-framework

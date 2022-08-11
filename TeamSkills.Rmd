@@ -1,10 +1,8 @@
-# Team Skills & Class Concepts {#teamskills}
-
-## Team Design/Formulation
+# Team Design/Formulation {#teamskills}
 
 This section covers several variations of team structures and organizational structures that you may encounter in your career at Ross and in the corporate world.
 
-**Hierarchical**
+## Hierarchical
 
 A hierarchical team/org structure is the most common in the corporate world. It is the typical pyramid-shaped chain-of-command where everyone has a boss and orders flow from the top down. Hierarchies can range from strict to relaxed.
 
@@ -24,7 +22,7 @@ Cons:
 
 -Entry-level employees may lack a feeling of ownership or importance 
 
-**Functional**
+## Functional
 
 A functional team/org structure is a variation of the hierarchical structure since the format of authority remains the same. However, the functional structure organizes members’ positions based on their own individual skills. These different skill groups are managed independently from one another. 
 Pros:
@@ -43,7 +41,7 @@ Cons:
 
 -Potential synergies between departments may never be realized
 
-**Divisional**
+## Divisional
 
 A divisional team/org structure gives different divisions of people their own areas of resources, responsibility, and leadership. Divisions can be defined by geographic location, task responsibilities, or any other useful criteria.
 
@@ -63,7 +61,7 @@ Cons:
 
 -Communication between division may be obstructed
 
-**Horizontal**
+## Horizontal
 
 A horizontal team/org structure is one where everyone is on the same level of authority. Sometimes, there is one person who is above everyone else, and sometimes everyone is on the same level. 
 
@@ -83,7 +81,7 @@ Cons:
 
 -Can lead to employees lacking specific workflows or direction
 
-**Team-Based**
+## Team-Based
 
 A team-based organizational structure is one meant to mimic the traditional hierarchy but divide it into sections based on project teams. The idea is to minimize bureaucracy while still reaping the benefits of a hierarchical structure.
 
@@ -103,7 +101,7 @@ Cons:
 
 -Can be challenging to scale from small to large
 
-**Network**
+## Network
 
 A network team structure describes a culture of open communication and relationship-focused work. A network organizational structure describes a way of thinking about a company as a “network” that connects resources, employees, suppliers, and customers.
 
@@ -123,7 +121,7 @@ Cons:
 
 -Difficult to maintain over a long period of time
 
-**Organic**
+## Organic
 
 An organic team/org structure is one where leadership is dynamic, meaning that authority can change hands. This is usually done based on who is the subject-matter expert for the current task. This is the opposite of the strict hierarchy.
 
@@ -143,7 +141,7 @@ Cons:
 
 -Someone may be a subject-matter expert but still be a terrible manager
 
-**Matrix**
+## Matrix
 
 A matrix organizational structure is one where people engage in cross-functional activities within the organization. The matrix organizational chart is designed like a grid.
 
@@ -163,114 +161,4 @@ Cons:
 
 -Bad managers can cause big problems in a matrix team/organization
 
-
-## Group Decision Making
-
-Group decision making is a strategy that is used when working in a team setting. In particular, teams collectively making a decision among the proposed solutions is the idea of group decision making. This way when the team makes a decision, it is not made by one person, but rather the whole group. Group Decision making is much different than individual decision making and usually more effective, since you can get multiple people's opinions before making an informed decision.
-
-### What are Group Decision Making Strategies?
-
-Group Decision Making strategies are manners and techniques that groups can use when they need to come to a consensus about an issue or problem. It has been researched and proven that decisions made collectively are usually better and more effective than decisions made by a single individual. Group decision making can also be used in all types of groups, including teams, committees and partnerships. 
-
-There are many techniques on how to go about group decision making but one good one is called the stepladder technique. This is a great technique if your group struggles with the idea of groupthink. Groupthink is when members in the team strive for a consensus without really giving their own opinions. The first step is to have each team member evaluate the problem/issue by themselves. Next, you can take any two people and have them discuss the problem. Then, add an additional member to the core group and discuss with the new person giving their thoughts first. After you can discuss a team and then repeat by adding a new person. Finally, after adding all the remaining members, as a group you can come together to make a decision based on the ideas and opinions put forth by everyone. This technique is usueful when you want to avoid group think and when you have a smaller group.
-
-A technique you may want to use with larger groups and larger decision is the Delphi method. This technique has an overall leader or facilitator that manages the flow of information. Then, the rest of the team 
-
-### When And When not to Use Decision Making?
-Though we may think that group decision strategies should always be used, there are some cases where we may not use them. Most of the times in school and work environments, group group decision making is the best course of action; however, there are certain cases where it should not be used.
-
-**When to Use**
-
-Whenever working in a team, the first thing to think of should be whether the team needs to use group decision making. One instance you should use group decision making is when the team is diverse. This way when making a decision, you can include all members of the team. When a team is diverse in background, each member could provide an interesting perspective that someone from a different culture might not have though of.
-
-Another situation you should use group decision making is when the group as a whole is poorly informed of the situation or problem. Mindlessly making a decision when you don't know enough about the problem or issue can lead to very bad decisions which could have major consequences. However, if all members of team work together in coming to a decion, they can all help each other understand the situation and therefore, the group can make a more informed decision.
-
-You should also use group decision making when you have a big decision to make. The larger the decision, the more input you should have. This way, you can be as informed as possible before making such a monumental decision. The bigger the decision, the larger the consequences will be (good or bad), so if you get as many people's feedback and input, the better the decision is likely to be.
-
-Finally, you should be using group decision making when a group has just been formed. A newly formed group is probably still getting used to each other, so it is best to make any decision collectively, especially if it affects the group in a substantial way. This is also a great way of getting to know your team better. You can explore each others background and individual decision making progress and then come together to make a good decision.
-
-**When Not to Use**
-
-Though group decision making seems like a great option, there are situations when you might want to rely on another method or just one individual to make the decision. One of these situations is when time is limited. If time is limited, then you want to make a decision quickly, and group decision making is probably not the best way to do that. Instead, you may want to select a leader who knows a lot more about the problem/issue and have them make the decision because it will be much faster.
-
-Another case group decision making might not be the best strategy is when you have an experienced person or professional in you group. For instance, if the group is making a decision on where to hold a business meeting, then this decision should probably be made by someone who is well informed about social-business meetings. If this person has been to a lot of these outings, they probably know more than other people in the group, so a decision coming primarily from that person might be more helpful.
-
-## Feedback/Difficult Conversations
-
-### How to Prepare for a Difficult Conversation?
-
-**Introduction**
-
-A difficult conversation refers to the conversations that are planned discussion about any uncomfortable topics or negative experience, where the goal is still to share different perspectives, to build mutual understanding, and to develop respect instead of persuading among members. In this section, we will at first discuss some concepts related to the difficult conversations and then visit the most important model to solve this issue. 
-
-**4 D’s in difficult conversations:**
-
-1.	Denial: other people reject the information that you provided
-2.	Deflection: other people change the subject
-3.	Disruption: other people shout, swear, sob, and storm out
-4.	Dumping on the boss: other people try to steer the conversation into criticism of you
-
-**Types of difficult conversations**
-
-1.	The “what happened” conversation
-This kind of conversation usually is about disagreements in what happened or what should happen.
-2.	The “feelings” conversation
-Almost every difficult conversation content the topic of feeling. This kind of conversation relates to any invalid thoughts and unnegotiable perceptions. 
-3.	The “identity” conversation
-This kind of conversation usually relates to the impact and key objective of each talk.
-4.	Examples in real-world:
-Dealing with poor performance/unpowerful decisions (power imbalance)/problems with peer coworkers such as relationship difficulties
-
-**Potential resources: books to read**
-
-1.	Best seller: Difficult Conversations: How to Discuss What Matters Most by Douglas Stone on November 2, 2010
-2.	Crucial Conversations: Tools for Talking When Stakes are High, Third Edition by Joseph Grenny on October 21, 2021
-
-### 7 Step Model
-
-1.	Identify the problem and acknowledge different points of view
-2.	Be certain this is a problem that is worth addressing
-3.	Invite the other person to talk with you
-4.	Start the conversation by “seeking first to understand”
-5.	Share your own point of view, your intentions and your feelings. Use “I” statements. Take responsibility for your part. 
-6.	Talk about the future and what can happen differently, so you don’t end up in the same place
-7.	Thank the other person for talking with you
-
-### 3 R's Model for Receiving Feedback
-
-**Introduction**
-
-According to the definition, receiving feedback refers to hearing and accepting that the other person has a particular opinion, which gives the recipient the opportunity to listen, absorb, and act on important messages. It is more important in the project management environment. For example, it helps to improve either the individual performance or the performance of the entire project. 
-
-**Difficulties in receiving feedback**
-
-1.  Brain system: our brain is biologically hard-wired to run away from negative feedback. People always subconsciously protect themselves when something is threatening. 
-2.  Overconfidence bias: People’s subjective confidence in own abilities is far greater than actual objective abilities which leads to experience dissonance.
-
-**The 3R Model**
-
-1.	Receive:
-Receive is at the first stage in this receiving feedback model. At first, recipients should notice others’ names and objectives with managed emotions. During the conversation, it is better to be engaged for better understanding. For example, asking questions to seek out more information or examples is a good strategy to show your curiousness. At the end of conversation, please remember to say thanks. 
-
-2.	Reflect: 
-After conversations, it is important to have the thoughts ready to share. During the thinking process, the first step is to evaluate the talking points and looking for what might be right. Then, it is good to check in with others and share opinions to validate. One important reminder is that please don’t let yourself formulate the responses while the others are talking. 
-
-3.	Respond: 
-After receiving ideas, it is beneficial to develop and execute a self-change plan which may includes the specific steps to improve current situations. Lastly, please remember to check back with the feedback giver to evaluate are there any missing points or any potential improvements.
-
-
-
-## Cultural Differences
-
-### Chronemics
-
-The study of how time affects communication.  It is used to understand the use of time in differing cultures.  Some cultures see time as something concrete and linear, while other cultures see time as something rather relative and cyclic.  The former perspective on time was termed by Edward T. Hall as monochronic and the latter as polychronic.
-
-### Proxemics
-
-Proxemics is the interpretation of spatial relationships within the context of cultural normalities and psychosocial factors.  The interpretation of these relationships determines the dynamics of human interaction and reaction to their surroundings.  Proxemics is the act of betraying affiliations through the dynamics of proximity.  This occurs at the unconscious, subconscious, and conscious levels.  Additionally, proxemics is the proximity or distance to and from other people and is based upon physiological, sociological, and physical principles.  Proxemics may be categorized as relative distance, proxemics push or pull distance.
-
-### Direct vs. Indirect
-
-There is a spectrum of formality throughout the cultures of the world, with some cultures being direct and explicit.  Others cultures are less direct and more ambiguous.  The theory of cross-cultural communication styles is extensive, but for our purpose we will focus on the distinction between direct and indirect communication styles.  
 

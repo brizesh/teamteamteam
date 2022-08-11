@@ -19,11 +19,15 @@ github-repo: brizesh/teamteamteam
 
 1. [Home Page](#introduction)
 2. [About us](#about-us)
-3. [Team Skills & Class Concepts](#teamskills)
-4. [Applications in Behavioral Interviews](#interview)
-5. [Administrative Products & Templates](#last)
-6. [Our Learings from the Term](#Scope)
-7. [References](#ref)
+3. [Team Design/Formulation](#teamskills)
+4. [Group Decision Making](#team2)
+5. [Feedback/Difficult Conversations](#team3)
+6. [Group Decision Making](#team4)
+7. [Applications in Behavioral Interviews](#interview)
+8. [Agile in the Workplace](#agile)
+8. [Administrative Products & Templates](#last)
+9. [Our Learings from the Term](#Scope)
+10. [References](#ref)
 
 # Introduction
 

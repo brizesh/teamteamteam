@@ -22,7 +22,7 @@ github-repo: brizesh/teamteamteam
 3. [Team Design/Formulation](#teamskills)
 4. [Group Decision Making](#team2)
 5. [Feedback/Difficult Conversations](#team3)
-6. [Group Decision Making](#team4)
+6. [Cultural Differences](#team4)
 7. [Applications in Behavioral Interviews](#interview)
 8. [Agile in the Workplace](#agile)
 8. [Administrative Products & Templates](#last)

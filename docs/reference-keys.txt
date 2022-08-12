@@ -32,8 +32,13 @@ step-model
 rs-model-for-receiving-feedback
 team4
 chronemics
+monochronic
+polychronic
 proxemics
-direct-vs.-indirect
+styles-of-communication
+direct-communication
+indirect-communication
+direct-vs.-indirect-communication
 interview
 frequently-asked-questions
 principles-for-answering-them
@@ -44,5 +49,10 @@ last
 sync-matrix
 team-charter
 Scope
+how-did-we-use-the-class-material-to-make-our-group-more-effective
+how-did-our-group-handle-challenges-and-changes
+how-did-we-divide-work-leveraged-unique-strengths-of-each-individual-in-the-team
+how-did-we-adopt-agile-work-practices
+how-did-we-manage-the-rmarkdowngitgithub-complexity-and-learning-curve
+what-more-could-we-do-to-become-a-more-effective-and-productive-team-in-the-time-left
 ref
-url-your-book-url-like-httpsbookdown.orgyihuibookdown

@@ -18,4 +18,129 @@ Date & Time, Contents for each meeting, and estimated finished time
 
 ## Team Charter
 
+**The TEAM The TEAM The TEAM Charter**
+
+**Contact Information**
+
+**Team**
+
+Brandon Wagstaff 
+
+Yidan Gu 
+
+Yulin Chen 
+
+Andrew Archambeau 
+
+Brizesh Maddipati 
+
+**Professors**
+
+Sanjeev Kumar - sankum@umich.edu - 734 615 7064
+
+Jeff Domagala - jeffdom@umich.edu - 734 647 7830
+
+**Individual Strengths**
+
+Brandon - Flexibility, Reliability, Curiosity
+
+Yidan - Honesty,  Self-regulation, Kindness and Social Intelligence
+
+Yulin - Communication, Curiosity, Creativity
+
+Andrew - Love of Learning & Perseverance
+
+Brizesh - Honesty, Flexibility
+
+**Individuals Goals**
+
+Brandon - Learn the best strategies for leading a software team
+
+Yidan - Get better in programming languages, especially in R
+
+Yulin - Be more proficient in R and relevant programming tools. Be able to analyze data independently
+
+Andrew - Increase proficiency in R programming
+
+Brizesh - Get more comfortable working in a software related team and more experience in Git
+
+**Vision Statement**
+
+Making Learning an Enjoyable Journey
+
+**Objectives**
+
+-Academic success for all members of the team
+
+-Everyone on the team gets a “good” or better
+
+-Make meetings an enjoyable experience, not something to dread
+
+-Building both soft and hard skills during this course
+
+-Soft skills include teamwork and collaboration
+
+-Hard skills include R abilities
+
+**Communication Norms**
+
+-Everyone should respond to texts in the group chat with at least a “like”
+
+-Responses should be timely (<24 hr)
+
+-Text thread will be the primary form of communication
+
+-Group work will be kept in the shared google drive folder
+
+-Communicate as soon as a problem comes up…bad news doesn’t get better with time
+
+-Use email to communicate with professors
+
+-We will be talking about difficult conversations and feedback in our 7/19 class and then changes will be made to the charter
+
+**Collateral Duties**
+
+Andrew - book rooms for meetings
+
+Brandon - scribe/meeting minutes
+
+Brizesh - submitting the assignments
+
+Yidan - correspondence person
+
+Yulin - review assignments before submission
+
+**Work Processes**
+
+-Meetings will be held every tuesday after class unless otherwise discussed
+
+-Create an agenda for each meeting
+
+-Search for information/do the research prior to meetings
+
+-Make a timeline for each assignment that everyone is to follow
+
+-Clarify everyone’s tasks and deliverables
+
+-Decisions can be made on a simple majority vote
+
+**Ground Rules**
+
+-Show respect for every members’ ideas and opinions
+
+-Encourage frank discussion and play devil’s advocate
+
+-Get comfortable tactfully debating ideas with each other
+
+-Be upfront with other members
+
+-Techniques for feedback will be discussed at lecture on 07/19
+
+-Show the professionalism expected in a work environment…come prepared
+
+-Start and end meetings on time
+
+-Everybody is expected to participate in the work and stay engaged
+
+-Team charter is a living document that is subject to change
 

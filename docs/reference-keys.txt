@@ -1,13 +1,6 @@
 introduction
 about-us
 brizesh
-home
-me
-education
-university-of-michigan
-harrison-high-school
-hobbies
-fun-facts
 brandon
 yulin
 andrew
@@ -57,3 +50,10 @@ how-did-we-manage-the-rmarkdowngitgithub-complexity-and-learning-curve
 what-more-could-we-do-to-become-a-more-effective-and-productive-team-in-the-time-left
 ref
 url-your-book-url-like-httpsbookdown.orgyihuibookdown
+faqs-about-teamwork
+faqs-about-leadership
+faqs-about-communication
+additional-questions
+agile-workplace
+attitudes-guaranteed-to-sink-your-agile-projects
+aviod-the-8-attitudes-guaranteed-to-sink-your-agile-projects

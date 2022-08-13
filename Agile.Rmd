@@ -1,1 +1,52 @@
 # Agile in the Workplace {#agile}
+
+This section will help students to be better prepared with working in an Agile style environment.
+
+![](https://res.cloudinary.com/monday-blogs/fl_lossy,f_auto,q_auto/wp-blog/2019/10/Introduction-to-Agile.png)
+
+The definition of “agile” in business has become harder to pin down in recent years. Originally, the term had a very specific meaning, referring to a radical set of software development practices devised in the mid-’90s to meet project objectives faster and more efficiently. 
+
+Since then, the concept of agile working has expanded to include more general **ideas of flexibility** around how we approach all kinds of work. 
+
+## Agile workplace
+The term is also now used to describe new and dynamic office layouts that support this style of working. An agile work environment replaces the traditional office with a number of multipurpose shared spaces that give employees the freedom to work where and when they choose.
+
+![](https://www.wework.com/ideas/wp-content/uploads/sites/4/2021/05/21-0317-Graphics-07-Full-Floor-Collab-Hub_v1-800x571.jpg)
+
+An **agile workplace** is a type of work environment designed around complete flexibility. Unlike a traditional office—where employees are permanently assigned to desks—an agile workplace encourages workers to move freely around the office, making use of whichever space suits their objectives at that time.
+
+But more importantly, to secure the project, **being an Agile styled working professional** is more important.
+
+## Aviod the 8 Attitudes Guaranteed to Sink Your Agile Projects
+
+There’s a big difference between doing Agile and being Agile. If your team simply adopts Agile rules without the mindset, you’re going to have Agile challenges. We've done the research and studied the pitfalls for you so you can help your team start sprinting successfully.
+
+**"I can't ask for help."**
+
+People are naturally reluctant to admit they're having trouble. But if the team doesn't know what other members are struggling with, problems escalate until it's too late to fix them. Encourage teammates to be open about challenges and admit when they don’t know the best course of action.
+
+**"I need to do this myself if it’s going to be done right.” **
+
+Agile is rooted in collaboration. You can't have a team of lone rangers taking charge of tasks independently without involving their colleagues.
+
+
+**“This isn’t in my job description." **
+
+Your job title and defined responsibilities don't matter in the Agile methodology. (Hence the use of "team members" in place of individual job titles.) What matters is what you can do well and how you can contribute to the project.
+
+**“This project is done, so I don’t have to think about it anymore."**
+
+Agile teams are constantly inspecting and evaluating what they do—and what they’ve done—for lessons on how they can improve.
+
+**“If I share my ideas, I might not get credit for them." **
+
+If your Agile team is going to be effective, everyone needs to get in the habit of actively sharing knowledge to foster genuine collaboration and innovative thinking. Individual credit is not the goal. Project success is.
+
+**“I need to stay focused and block out anything that’s not directly related to my work."**
+
+With Agile, not all interruptions are bad; some are helpful! Stay plugged in to what’s going on with your teammates so you can pitch in or improve your own work through their experience.
+
+**"Unstructured = unproductive."**
+
+Agile embraces the apparent chaos that comes with short sprints and changing parameters. Free form can also mean the freedom to capitalize on unexpected opportunities.
+“Failure is the worst thing that can happen." Agile recognizes failure as an opportunity to strengthen your team and your end product, not something that should be dreaded or downplayed. If your team is pushing itself to create truly great, innovative stuff, failure is a valued part of the process.

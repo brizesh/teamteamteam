@@ -49,14 +49,14 @@ Name: Chen Yulin
 
 Uniqname: Yulinc
 
-Education: University of Michigan
-Master of Business Analytics, Class of 2023
-University of Hong Kong
-Bachelor of Economics and Finance,Class of 2020
-University of California, Berkeley
-Summer Exchange
-University of Glasgow
-Semester Exchange
+Education: 
+University of Michigan-Master of Business Analytics, Class of 2023
+
+University of Hong Kong-Bachelor of Economics and Finance,Class of 2020
+
+University of California, Berkeley-Summer Exchange
+
+University of Glasgow-Semester Exchange
 
 Fun Facts: 
 Crane machine killer,

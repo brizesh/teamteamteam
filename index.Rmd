@@ -1,5 +1,5 @@
 --- 
-title: "TheTeamTheTeamTheTeam"
+title: "How to Show Them You Are a Team Player?"
 author: "Brizesh, Brandon, Yulin, Andrew, Yidan"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -17,21 +17,25 @@ github-repo: brizesh/teamteamteam
 
 # Table of Contents {-}
 
-1. [Home Page](#introduction)
-2. [About us](#about-us)
-3. [Team Design/Formulation](#teamskills)
-4. [Group Decision Making](#team2)
-5. [Feedback/Difficult Conversations](#team3)
-6. [Cultural Differences](#team4)
-7. [Applications in Behavioral Interviews](#interview)
-8. [Agile in the Workplace](#agile)
-8. [Administrative Products & Templates](#last)
-9. [Our Learings from the Term](#Scope)
-10. [References](#ref)
-
-# Introduction
-
-Hi, we are The Team the Team the Team from MABn 501. In general, we chose to make our project about approaching teamwork and collaboration questions in the behavioral interview process. The primary reason is that it will be useful for future MBAn students as well as ourselves. This research we will conduct for this project will benefit us later this year during our job searches. Hopefully, it will also benefit future students as well. We also want to improve our teamwork, collaborative skills, and process-building capabilities. Becoming more comfortable with GitHub while we complete this project together is another advantage. This will also help us land a good job and start our careers in the best place possible. Behavioral questions that involve teamwork and collaboration are crucial since most companies are highly concerned with our teamwork capabilities. The world is becoming increasingly complex which will make teamwork and collaborative skills more and more valuable.
+- [Home Page](#introduction)
+- [About us](#about-us)
+- [Team Design/Formulation](#teamskills)
+- [Group Decision Making](#team2)
+- [Feedback/Difficult Conversations](#team3)
+- [Cultural Differences](#team4)
+- [Applications in Behavioral Interviews](#interview)
+- [Agile in the Workplace](#agile)
+- [Administrative Products & Templates](#last)
+- [Our Learnings from the Term](#Scope)
+- [References](#ref)
 
 ![](https://rossweb.bus.umich.edu/style-guide/wp-content/uploads/sites/16/2014/07/FormalSignature.png)
 
+
+# Introduction
+
+Hi, we are The Team the Team the Team from MABn 501. During the enriched two months, we learned about many concepts of teamwork and how to adapt ourselves in a Agile working style. We chose to integrate our learning and the application of these concepts in reality, and make our project focusing on approaching behavioral questions in interview process. This research we will conduct for this project will benefit us later this year during our job searches. Hopefully, the output will also benefit future students as well. Through the project, we also want to improve our teamwork, collaborative skills, and
+process-building capabilities. Behavioral questions that involve teamwork and collaboration are crucial since most companies are highly concerned with our teamwork capabilities. The world is becoming increasingly complex which will make teamwork and collaborative skills more and more valuable.
+
+
+![](https://rossweb.bus.umich.edu/style-guide/wp-content/uploads/sites/16/2014/07/FormalSignature.png)

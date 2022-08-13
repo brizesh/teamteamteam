@@ -56,3 +56,4 @@ how-did-we-adopt-agile-work-practices
 how-did-we-manage-the-rmarkdowngitgithub-complexity-and-learning-curve
 what-more-could-we-do-to-become-a-more-effective-and-productive-team-in-the-time-left
 ref
+url-your-book-url-like-httpsbookdown.orgyihuibookdown
